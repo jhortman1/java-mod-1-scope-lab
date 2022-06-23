@@ -9,6 +9,6 @@ public class Main {
             // do something else when flag is false
             number = 5;
         }
-        System.out.println(number); // <- this will not work because numberWhenFlagIsTrue is not in scope
+        System.out.println(number);
     }
 }
